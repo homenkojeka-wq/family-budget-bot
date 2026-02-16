@@ -1,1 +1,1 @@
-web: python budget_bot.py
+web: python bot.py
